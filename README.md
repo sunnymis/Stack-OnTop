@@ -1,6 +1,6 @@
 # Stack OnTop
 
-![Stack OnTop](stack-big.png "Stack OnTop")
+![Stack OnTop](stack-large.png "Stack OnTop")
 
 Chrome Extension that automatically places the accepted Stack Overflow question at the top
 
