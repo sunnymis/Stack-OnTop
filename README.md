@@ -4,4 +4,4 @@
 
 Chrome Extension that automatically places the accepted Stack Overflow question at the top
 
-Now you no longer need to scroll to the accepted answer and yo uwill increase development time exponentially
+Now you no longer need to scroll to the accepted answer and you will increase development speed exponentially
