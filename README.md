@@ -2,9 +2,9 @@
 
 ![Stack OnTop](stack-large.png "Stack OnTop")
 
-Chrome Extension that automatically places the accepted Stack Overflow question at the top
+*Chrome Extension that automatically places the accepted Stack Overflow question at the top*
 
-Now you no longer need to scroll to the accepted answer and you will increase development speed exponentially
+![!stack-ontop-demo](stack-ontop-demo.png "Stack OnTop Demo")
 
 # Installation
 
