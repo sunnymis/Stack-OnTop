@@ -8,9 +8,9 @@
 
 # Installation
 
-###This extension is not currently available in the Chrome Extension store. 
+### This extension is not currently available in the Chrome Extension store. 
 
-####To install follow the steps below: 
+#### To install follow the steps below: 
 
 1. Clone or download the project from GitHub
 2. Open Google Chrome and navigate to [chrome://extensions/](chrome://extensions/)
