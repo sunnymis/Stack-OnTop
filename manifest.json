@@ -13,7 +13,7 @@
   "manifest_version": 2,
     "content_scripts": [
     {
-      "matches": ["http://stackoverflow.com/questions/*"],
+      "matches": ["https://stackoverflow.com/questions/*"],
       "js": ["stackOnTop.js"]
     }
   ]
