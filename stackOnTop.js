@@ -8,10 +8,13 @@ let feedLink = document.querySelector('#feed-link');
 innerContent.style.margin = 0;
 innerContent.style.width = "100%";
 innerContent.style.display = "flex";
+innerContent.style.paddingLeft = 0;
+innerContent.style.paddingRight = 0;
 
 question.style.overflow = "scroll";
 question.style.height = "100vh";
 question.style.clear = "none";
+question.style.paddingLeft = "15px";
 
 mainBar.style.float = "none";
 mainBar.style.overflow = "scroll"
