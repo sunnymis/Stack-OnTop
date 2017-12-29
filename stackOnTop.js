@@ -15,6 +15,7 @@ question.style.overflow = "scroll";
 question.style.height = "100vh";
 question.style.clear = "none";
 question.style.paddingLeft = "15px";
+question.style.maxWidth = "50vw";
 
 mainBar.style.float = "none";
 mainBar.style.overflow = "scroll"
