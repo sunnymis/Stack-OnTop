@@ -4,8 +4,9 @@
   Automatically Place the Accepted Stack Overflow Question at the Top
 </h3>
 
-![Stack OnTop](stack-large.png "Stack OnTop")
-
+<p align="center">
+  <img src="https://github.com/sunnymis/stack-ontop/blob/master/stack-large.png?raw=true">
+</p>
 
 ![!stack-ontop-demo](stack-ontop-demo.png "Stack OnTop Demo")
 
